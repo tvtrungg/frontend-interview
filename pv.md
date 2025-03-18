@@ -701,16 +701,3 @@ const arr = ['Have', 'a', 'good', 'day!'];
 const result = arr.join(' ');
 console.log(result); // "Have a good day!"
 ```
-
-
-
-Express: môi trường
-
-Nodemon: Thao tác nhanh hơn, tự động cập nhật trang
-
-Morgan: Phần mềm trung gian, giúp chúng ta log http request ra terminal cho chúng ta biết 
-
-interface và type, asyn, await, ES5, ES6,...
-implement APi 
-API, storage, các cách bảo mật website và phòng trnhas
-nguyenquocduythuan@gmail.com
